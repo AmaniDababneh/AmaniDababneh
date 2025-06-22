@@ -1,31 +1,38 @@
 # 👋 Hi, I'm Amani Dababneh
 
-🎓 **MBA in Data Analytics**  
+🎓 **MBA in Data Analytics** | 📦 Logistics & Supply Chain | 🏥 Health Data  
 📍 Based in Indiana, USA | 🌍 Originally from Jordan  
-📦 Data Analyst with hands-on experience in logistics, health, and supply chain operations  
-💡 Passionate about turning messy data into clear business insights and decisions
+📊 Data Analyst skilled at transforming business operations data into clear, actionable insights.
 
 ---
 
-## 🧠 Projects I'm Building  
-- 📊 **Export Operations Dashboard – Cargoloop**  
-  Excel dashboard analyzing lift payment delays by carrier to support logistics operations.
+## 🧠 Featured Projects
 
-- 📦 **(Coming Soon)**: Supply Chain Inventory Tracker  
-- 🏥 **(Coming Soon)**: Health Data Dashboard with Nutritional Insights  
-- 📈 **(Coming Soon)**: Business Sales & Performance Insights for a Retail Client
+- **Export Operations Dashboard – Cargoloop**  
+  Designed and built an Excel dashboard to analyze lift payment delays by carrier. Provided insights to optimize processing time and improve vendor accountability.
 
----
+- **Supply Chain Inventory Tracker**  
+  Created a supply chain monitoring tool that tracks stock movement, restocking cycles, and bottlenecks using Excel and Power BI. Improved inventory visibility and reduced delays.
 
-## 💻 Tools & Skills  
-- Excel (PivotTables, VLOOKUP, Dashboards)  
-- Power BI (in progress)  
-- Data Cleaning, Business Metrics, Report Automation  
-- Supply Chain & Operations Analysis
+- **Health & Nutrition Insights Dashboard**  
+  Developed a health-focused analysis tool using dietary and biometric data. Identified nutrient gaps and trends in population health to support better wellness planning.
+
+- **Retail Sales & Profitability Analysis**  
+  Analyzed multi-quarter sales performance for a small business. Highlighted seasonal trends, top-performing products, and growth opportunities.
 
 ---
 
-## 🌐 Let's Connect  
+## 💻 Tools & Skills
+
+- Excel: Dashboards, PivotTables, VLOOKUP, XLOOKUP, Data Cleaning  
+- Power BI: Visualizations, KPI Dashboards (in-progress learning)  
+- Business Metrics: Supply Chain KPIs, Logistics Efficiency, Health Analytics  
+- Storytelling with Data: Reports tailored for non-technical audiences
+
+---
+
+## 🌐 Let’s Connect
+
 📧 AmaniDababneh1997@gmail.com  
 📍 Indiana, USA  
 🔗 [LinkedIn](https://www.linkedin.com/in/amani-dababneh/)  
