@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Amani Dababneh
 
-🎓 **MBA in Data Analytics** | 📦 Logistics & Supply Chain | 🏥 Health Data  
+🎓 **MBA in Data Analytics** | 💼 Business & Data Analyst  
+📦 Logistics & Supply Chain | 🏥 Health Analytics | 📊 Operations Optimization  
 📍 Based in Indiana, USA | 🌍 Originally from Jordan  
-📊 Data Analyst skilled at transforming business operations data into clear, actionable insights.
+Analyst passionate about turning messy data into clear business decisions and strategic insights.
 
 ---
 
@@ -35,4 +36,4 @@
 
 📧 AmaniDababneh1997@gmail.com  
 📍 Indiana, USA  
-🔗 [LinkedIn](https://www.linkedin.com/in/amani-dababneh/)  
+🔗 [LinkedIn] ( https://www.linkedin.com/in/amani-dababneh-91807919b/ )
