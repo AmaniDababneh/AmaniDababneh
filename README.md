@@ -13,7 +13,7 @@ Analyst passionate about turning messy data into clear business decisions and st
   Designed and built an Excel dashboard to analyze lift payment delays by carrier. Provided insights to optimize processing time and improve vendor accountability.
 
 - **Supply Chain Inventory Tracker**  
-  Created a supply chain monitoring tool that tracks stock movement, restocking cycles, and bottlenecks using Excel and Power BI. Improved inventory visibility and reduced delays.
+  Developed an Excel and Power BI dashboard to monitor inventory and supplier delays across warehouses. Used pivot tables and slicers for dynamic analysis. Identified top delay contributors and low-stock areas.
 
 - **Health & Nutrition Insights Dashboard**  
   Developed a health-focused analysis tool using dietary and biometric data. Identified nutrient gaps and trends in population health to support better wellness planning.
