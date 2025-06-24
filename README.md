@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Amani Dababneh
 
+Data Analyst passionate about turning messy data into clear business decisions and strategic insights.
+
 🎓 **MBA in Data Analytics** | 💼 Business & Data Analyst  
-📦 Logistics & Supply Chain | 🏥 Health Analytics | 📊 Operations Optimization  
+📦 Logistics & Supply Chain | 🏥 Health Analytics |  
 📍 Based in Indiana, USA | 🌍 Originally from Jordan  
-Analyst passionate about turning messy data into clear business decisions and strategic insights.
 
 ---
 
