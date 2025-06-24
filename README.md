@@ -16,12 +16,6 @@ Data Analyst passionate about turning messy data into clear business decisions a
 - **Supply Chain Inventory Tracker**  
   Developed an Excel and Power BI dashboard to monitor inventory and supplier delays across warehouses. Used pivot tables and slicers for dynamic analysis. Identified top delay contributors and low-stock areas.
 
-- **Health & Nutrition Insights Dashboard**  
-  Developed a health-focused analysis tool using dietary and biometric data. Identified nutrient gaps and trends in population health to support better wellness planning.
-
-- **Retail Sales & Profitability Analysis**  
-  Analyzed multi-quarter sales performance for a small business. Highlighted seasonal trends, top-performing products, and growth opportunities.
-
 ---
 
 ## 💻 Tools & Skills
