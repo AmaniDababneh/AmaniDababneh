@@ -16,6 +16,9 @@ Data Analyst passionate about turning messy data into clear business decisions a
 - **Supply Chain Inventory Tracker**  
   Developed an Excel and Power BI dashboard to monitor inventory and supplier delays across warehouses. Used pivot tables and slicers for dynamic analysis. Identified top delay contributors and low-stock areas.
 
+- **Retail Profitability Dashboard**  
+  Built an Excel dashboard to analyze sales, cost, and profit trends across product categories, months, and store locations. Used pivot tables, charts, and slicers to uncover top-performing categories and high-cost drivers.
+
 ---
 
 ## 💻 Tools & Skills
